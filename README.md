@@ -1,6 +1,6 @@
 # BMW Global Sales Analysis (2018-2025)
 
-Analysis of the BMW Group's global sales performance between 2018 and 2025, covering sales volumes, model mix, the EV transition, pricing, and seasonality across four major regions. This is a portfolio project built as part of a transition into data analytics.
+Analysis of the BMW Group's global sales performance between 2018 and 2025, covering sales volumes, model mix, the EV transition, pricing, and seasonality across four major regions.
 
 **Objective:** identify the key trends shaping the BMW Group's global performance between 2018 and 2025, and translate these findings into actionable recommendations around product, market, and commercial priorities.
 
